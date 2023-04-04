@@ -8,7 +8,6 @@
         private $person;
 
         
-
         public function __construct($person,$password, $fname, $lname, $email, $id){
             $this->password = $password;
             $this->fname = $fname;
